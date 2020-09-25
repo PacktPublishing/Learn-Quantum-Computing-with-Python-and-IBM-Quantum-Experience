@@ -10,7 +10,12 @@ This is the code repository for [Learn Quantum Computing with Python and IBM Qua
 IBM Quantum Experience is a platform that enables developers to learn the basics of quantum computing by allowing them to run experiments on a quantum computing simulator and a real device. This book will explain the basic principles of quantum mechanics, the principles involved in quantum computing, and the implementation of quantum algorithms and experiments on IBM's quantum processors. 
 
 This book covers the following exciting features:
-0
+Explore quantum computational principles such as superposition and quantum entanglement
+Become familiar with the contents and layout of the IBM Quantum Experience
+Understand quantum gates and how they operate on qubits
+Discover the quantum information science kit and its elements such as Terra and Aer
+Get to grips with quantum algorithms such as Bell State, Deutsch-Jozsa, Grovers algorithm, and Shor's algorithm
+How to create and visualize a quantum circuit	
 
 If you feel this book is for you, get your [copy](https://www.amazon.com/dp/1838981004) today!
 
