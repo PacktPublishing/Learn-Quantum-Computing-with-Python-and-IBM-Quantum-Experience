@@ -43,6 +43,19 @@ With the following software and hardware list you can run all code files present
 
 We also provide a PDF file that has color images of the screenshots/diagrams used in this book. [Click here to download it](https://static.packt-cdn.com/downloads/9781838981006_ColorImages.pdf).
 
+## Errata
+The block of code available on page 65 is incorrect and should be as follows:
+```
+from qiskit.visualization import plot_bloch_multivector
+qc = QuantumCircuit(1)
+...
+...
+...
+#Display the Bloch sphere
+plot_bloch_multivector(stateVectorResult)
+```
+
+
 ### Code in Action
 Please visit the following link to check the CiA videos:
 https://bit.ly/35o5M80
