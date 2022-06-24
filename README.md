@@ -54,7 +54,9 @@ qc = QuantumCircuit(1)
 #Display the Bloch sphere
 plot_bloch_multivector(stateVectorResult)
 ```
-
+* Page 9 (paragraph 2, line 1):  **As described in the shaded bar area, where the error rate range is illustrated by Singlequbit
+U3 error rate,** _should be_ **As described in the shaded bar area, where the error rate range is illustrated by Singlequbit
+U2 error rate,**
 
 ### Code in Action
 Please visit the following link to check the CiA videos:
