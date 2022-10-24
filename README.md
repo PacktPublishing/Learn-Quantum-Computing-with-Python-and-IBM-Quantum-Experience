@@ -71,3 +71,7 @@ https://bit.ly/35o5M80
 **Robert Loredo** is the IBM Quantum Global Technical Ambassador lead with over 20 years' experience in software architecture and engineering. He is also a Qiskit Advocate and Master Inventor who holds over 160 patents and has presented various workshops, lectures, and articles covering quantum computing, artificial intelligence, and bioinformatics world-wide. As an adjunct professor, he has taught cloud computing and software engineering at the Florida International University School of Computer Science. He holds both a bachelor's and a master's degree in Computer and Electrical Engineering from the University of Miami and is currently pursuing his PhD in Computer Science, specializing in Machine Learning and Neuroscience, at Florida International University.
 
 
+### Download a free PDF
+
+ <i>If you have already purchased a print or Kindle version of this book, you can get a DRM-free PDF version at no cost.<br>Simply click on the link to claim your free PDF.</i>
+<p align="center"> <a href="https://packt.link/free-ebook/9781838981006">https://packt.link/free-ebook/9781838981006 </a> </p>
